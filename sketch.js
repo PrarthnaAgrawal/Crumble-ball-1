@@ -7,10 +7,7 @@ const Body = Matter.Body;
 var paper,dustbin,ground;
 var dustbin2,dustbin3;
 
-function preload()
-{
-	
-}
+//mkmijmi
 
 function setup() {
 	createCanvas(1600,700);
